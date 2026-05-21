@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tea Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Tea Shop Website</h1>
+    <p>Website bán chè online</p>
+
+    <div class="product">
+        <h3>Chè Thái</h3>
+        <p>25.000đ</p>
+    </div>
+
+    <div class="product">
+        <h3>Chè Khúc Bạch</h3>
+        <p>30.000đ</p>
+    </div>
+
+</body>
+</html>
